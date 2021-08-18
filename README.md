@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LanceClarke
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently working with R
--  :fire: Ignore the fire in the background of my profile picture. I live in California.
+- 👀 I like Tableau & BI
+- 🌱 I’m currently working with CGI & R
 - 📫 Reach me at LanceClarkeMS@gmail.com
 
 <!---
